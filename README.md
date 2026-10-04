@@ -1,2 +1,2 @@
-# ai-motion-studio
+# zy.-motion-studio
 Personal AI motion graphics generator
